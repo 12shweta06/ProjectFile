@@ -2,7 +2,7 @@
 
 
 I. What I Built<br/>
-# A simple web form with:<br/>
+  A simple web form with:<br/>
 - HTML structure for form inputs (Name, Email)<br/>
 - CSS for basic styling<br/>
 - JavaScript for client-side validation<br/>
